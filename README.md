@@ -188,7 +188,7 @@ The test is intended to run with a matching testbed and device type.
 
 ##### Fixtures dependency diagram for the BGP facts test
 
-[Insert fixture dependency diagram here]
+![fixture dependency diagram](image.png)
 
 ### Fixture Scopes
 
